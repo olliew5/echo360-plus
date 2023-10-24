@@ -1,8 +1,8 @@
 {
-    "name": "Echo360+",
+    "name": "Echo360+ UK",
     "description": "Provides various improvements to the Echo360 video streamer/downloader",
-    "version": "1.3.3",
-    "manifest_version": 2,
+    "version": "1.0",
+    "manifest_version": 1,
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
@@ -14,7 +14,9 @@
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
                 "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "http://echo360.org.au/section/*",
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "js": [
                 "js/custom-file-names.js"
@@ -27,7 +29,9 @@
                 "https://echo360.org/lesson/*",
                 "http://echo360.org/lesson/*",
                 "https://echo360.org.au/lesson/*",
-                "http://echo360.org.au/lesson/*"
+                "http://echo360.org.au/lesson/*",
+                "https://echo360.org.uk/lesson/*",
+                "http://echo360.org.uk/lesson/*"
             ],
             "js": [
                 "js/more-speed-options.js"
@@ -40,7 +44,9 @@
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
                 "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "http://echo360.org.au/section/*",
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "js": [
                 "js/day-with-dates.js"
@@ -53,7 +59,9 @@
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
                 "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "http://echo360.org.au/section/*",
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "css": [
                 "css/reposition-popup.css"
@@ -65,7 +73,9 @@
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
                 "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "http://echo360.org.au/section/*",
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "js": [
                 "js/hide-future-lectures.js"
