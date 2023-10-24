@@ -1,6 +1,6 @@
 {
     "name": "Echo360+ UK",
-    "description": "Provides various improvements to the Echo360 video streamer/downloader",
+    "description": "This is a direct fork of the Echo360+ extension with support for UK.",
     "version": "1.0",
     "manifest_version": 1,
     "icons": {
